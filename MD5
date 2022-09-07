@@ -1,4 +1,4 @@
-711ebe22c8455b3d5cfbc9fa37f02cd5 *DESCRIPTION
+019dd88c5e466596ea096c1bae39c8cb *DESCRIPTION
 ae1541b9bc835126592c7303a646f44e *LICENSE
 b264d6edde7f546441a6ba0ed837bff7 *NAMESPACE
 e55fe5ed14df72db2dca79289398a506 *R/call_naptan.R
@@ -11,5 +11,5 @@ fb2d4c630c361150edd2bae3b5d19389 *man/get_atco_codes.Rd
 f834b3d5b5fe1c440f6c4dd7d600440b *man/lookup_atco_codes.Rd
 668e1ad5fb9ee0e1d4573309ad9d4d53 *tests/testthat.R
 b8496cb355cec926d8a6fdec4a97fcd8 *tests/testthat/test-unique_atco_codes.R
-ecdb4e5205059ec5a86093a1faa2828b *tests/testthat/testcall_naptan.R
+256081d42cbe95fe0730486d8d2b4074 *tests/testthat/testcall_naptan.R
 07bc10a66ba5805ed4f5d6cfa433d318 *tests/testthat/testcall_naptan_region.R
